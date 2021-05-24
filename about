@@ -1,0 +1,364 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <meta http-equiv="X-UA-Compatible" content="ie=edge" />
+    <meta name="title" content="MR Engineering Services">
+    <meta name="description" content="MR Engineering Services is a Professionally Managed, Techno-commercially Sound Organization, Backed Up With Rich Expertise Of Professionals From BHEL, SIEMENS, ALSTOM, TRIVENI, L&T, INDWELL, ALFA, TCE, TDPS, DFPS, TURBOMACHINERY etc.,">
+    <meta name="keywords" content="mrengineering,mrengineeringservices,erection,testing,amc,Overhaulings,insitu,Revamping,refurbishment,powerplants,conditionassesment">
+    <meta name="robots" content="index, follow">
+    <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+    <meta name="language" content="English">
+    <meta name="author" content="VOPO.in">
+    <link href="img/logo.jpg" rel="icon">
+    <title>MR Engineering Services</title>
+    <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Rubik:400,500,600,700%7cRoboto:400,500,700&amp;display=swap">
+    <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Sofia">
+    <link rel="stylesheet" href="assets/css/libraries.css">
+    <link rel="stylesheet" href="assets/css/style.css">
+    <script src="https://kit.fontawesome.com/78550e0849.js" crossorigin="anonymous"></script>
+</head>
+    <body>
+      <!--<div class="wrapper">
+            <div id="preloader-active">
+                <div class="preloader d-flex align-items-center justify-content-center">
+                    <div class="preloader-inner position-relative">
+                        <div class="preloader-circle"></div>
+                        <div class="preloader-img pere-text">
+                            <img src="assets/images/preload/prmain.png" alt="">
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+            <!-- =========================
+        Header
+    =========================== -->
+    <header class="header header-light header-layout1">
+        <div class="header-topbar d-none d-xl-block">
+            <div class="container-fluid">
+                <div class="row">
+                    <div class="col-sm-12 col-md-7 col-lg-7">
+                        <div class="d-flex flex-wrap justify-content-between">
+                            <ul class="contact-list list-unstyled mb-0 d-flex flex-wrap">
+                                <li> <i class="icon-phone"></i><span>Phone:</span>
+                                    <a href="tel:+919979793283">(+91) - 9676432134 / 7893090510 / 8919804859</a>
+                                </li>
+                                <li> <i class="icon-envelope"></i><span>Email:</span>
+                                    <a href="mailto:info@mrengineeringservices.in">info@mrengineeringservices.in</a>
+                                </li>
+                            </ul>
+                        </div>
+                    </div>
+                    <!-- /.col-lg-7 -->
+                    <div class="col-sm-12 col-md-5 col-lg-5 d-flex flex-wrap justify-content-end">
+                        <ul class="header-topbar__links d-flex flex-wrap  mb-0">
+                            <li><a href="sitemap.html">View Sitemap</a>
+                            </li>
+                        </ul>
+                        <ul class="social-icons list-unstyled mb-0">
+                            <li><a target="_blank" href="https://www.facebook.com/MR-Engineering-Services-1100862799955496/"><i class="fab fa-facebook-f"></i></a>
+                            </li>
+                            <li><a href="https://rebrand.ly/mrengglinkedin"><i class="fab fa-linkedin"></i></a>
+                            </li>
+                            <li><a href="https://rebrand.ly/mrenggtwitter"><i class="fab fa-twitter"></i></a>
+                            </li>
+                        </ul>
+                    </div>
+                    <!-- /.col-lg-5 -->
+                </div>
+                <!-- /.row -->
+            </div>
+            <!-- /.container -->
+        </div>
+        <!-- /.header-topbar -->
+        <nav class="navbar navbar-expand-lg">
+            <div class="container-fluid px-0">
+                <a class="navbar-brand" href="index.html">
+                    <img src="assets/images/logo/logo.jpg" width="280" height="75" alt="logo">
+                </a>
+                <button class="navbar-toggler" type="button"> <span class="menu-lines"><span></span></span>
+                </button>
+                <div class="collapse navbar-collapse" id="mainNavigation">
+                    <ul class="navbar-nav ml-auto">
+                        <li class="nav__item"> <a href="index.html" class="nav__item-link">Home</a>
+                        </li>
+                        <!-- /.nav-item -->
+                        <li class="nav__item with-dropdown"> <a href="about-us.html" class="dropdown-toggle nav__item-link">About-Us</a>
+                            <i class="fa fa-angle-down" data-toggle="dropdown"></i>
+                            <ul class="dropdown-menu">
+                                <li class="nav__item"> <a href="about-us.html" class="nav__item-link">View About-Us</a>
+                                </li>
+                                <!-- /.nav-item -->
+                                <li class="nav__item"> <a href="services.html" class="nav__item-link">View Our Services</a>
+                                </li>
+                                <!-- /.nav-item -->
+                                <!-- /.nav-item -->
+                            </ul>
+                            <!-- /.dropdown-menu -->
+                        </li>
+                        <!-- /.nav-item -->
+                        <li class="nav__item with-dropdown"> <a href="services.html" class="dropdown-toggle nav__item-link">Services</a>
+                            <i class="fa fa-angle-down" data-toggle="dropdown"></i>
+                            <ul class="dropdown-menu">
+                                <li class="nav__item"> <a href="1.html" class="nav__item-link">
+                      Erection, Testing, Pre-Commissioning & Commissioning</a>
+                                </li>
+                                <!-- /.nav-item -->
+                                <li class="nav__item"> <a href="2.html" class="nav__item-link">
+                      Major, Minor Overhaulings And Trouble Shooting</a>
+                                </li>
+                                <!-- /.nav-item -->
+                                <li class="nav__item"> <a href="3.html" class="nav__item-link">
+                      Operation & Maintenance Of Power Plants</a>
+                                </li>
+                                <!-- /.nav-item -->
+                                <li class="nav__item"> <a href="4.html" class="nav__item-link">
+                     Annual Maintenance Contracts (AMC)</a>
+                                </li>
+                                <li class="nav__item"> <a href="5.html" class="nav__item-link">
+                     3rd Party Inspection Services</a>
+                                </li>
+                                <li class="nav__item"> <a href="6.html" class="nav__item-link">
+                     Repair And Reconditioning Activities</a>
+                                </li>
+                                <li class="nav__item"> <a href="7.html" class="nav__item-link">
+                     Condition Assessment Activities</a>
+                                </li>
+                                <li class="nav__item"> <a href="8.html" class="nav__item-link">
+                     Manufacturing Of Spares , Re-Babbiting Of Bearings</a>
+                                </li>
+                                <li class="nav__item"> <a href="9.html" class="nav__item-link">
+                     Vibration Analysis, In-Situ , Vaccum Tunnel Balancing</a>
+                                </li>
+                                <li class="nav__item"> <a href="10.html" class="nav__item-link">
+                     Revamping, Refurbishment And Relocation Of Power Plants</a>
+                                </li>
+                                <li class="nav__item"> <a href="services.html" class="nav__item-link">
+                      View All Services</a>
+                                </li>
+                                <!-- /.nav-item -->
+                            </ul>
+                            <!-- /.dropdown-menu -->
+                        </li>
+                        <!-- /.nav-item -->
+                        <li class="nav__item"> <a href="clientele.html" class="nav__item-link">Clientele</a>
+                        </li>
+                        <li class="nav__item"> <a href="expertise.html" class="nav__item-link">Our Expertise</a>
+                        </li>
+                        <li class="nav__item with-dropdown"> <a target="_blank" href="https://www.facebook.com/MR-Engineering-Services-1100862799955496/" class="dropdown-toggle nav__item-link">Follow Us</a>
+                            <i class="fa fa-angle-down" data-toggle="dropdown"></i>
+                            <ul class="dropdown-menu">
+                                <li class="nav__item"> <a target="_blank" href="https://www.facebook.com/MR-Engineering-Services-1100862799955496/" class="nav__item-link">Facebook</a>
+                                </li>
+                                <!-- /.nav-item -->
+                                <li class="nav__item"> <a target="_blank" href="https://rebrand.ly/mrengglinkedin" class="nav__item-link">Linkedin</a>
+                                </li>
+                                <!-- /.nav-item -->
+                            </ul>
+                            <!-- /.dropdown-menu -->
+                        </li>
+                         <li class="nav__item"> <a href="news.html" class="nav__item-link">Latest-Feed</a>
+                        </li>
+                        <li class="nav__item"> <a href="contact-us.html" class="nav__item-link">Get In Touch</a>
+                        </li>
+                        <!-- /.nav-item -->
+                    </ul>
+                    <!-- /.navbar-nav -->
+                </div>
+                <!-- /.navbar-collapse -->
+            </div>
+            <!-- /.container -->
+        </nav>
+        <!-- /.navabr -->
+        
+    </header>
+
+    <!-- ========================
+       page title 
+    =========================== -->
+   
+    <!-- ========================
+      About Layout 2
+    =========================== -->
+  
+
+    <!-- =========================
+       Banner layout 2
+      =========================== -->
+    <section class="slide-item align-v-h bg-overlay">
+      <div class="bg-img"><img src="assets/images/sliders/1.png" alt="background"></div>
+      <div class="container">
+        <div class="row heading-layout3 heading-light mb-50">
+          <div class="col-sm-12 col-md-12 col-lg-5">
+            <h2 class="heading__subtitle">About-Us</h2>
+            <h3 class="heading__title">Diyam Infracon</h3>
+          </div><!-- /.col-lg-5 -->
+          <div class="col-sm-12 col-md-12 col-lg-7">
+             <p class="heading__desc mt-30 mb-30">Diyam Infracon has been set up with the aim of delivering Engineering, Manpower and Training facilities in all forms of industry by providing reliable solutions to our customers of the best quality and superior market value.
+We provide customised strategies for Short Term, Long Term, Project Based as well as Permanent Positions in Engineering Design, Construction.<br>Our talent pool working on client&rsquo;s projects has : </p>
+                        <ul class="list-items list-unstyled mb-40">
+                            <li><p style="color:white"> Good combination of engineers across multiple disciplines with significant experience in various industries, tools / platforms, and project management methodologies,</p></li>
+                            <li><p style="color:white">Good experience in working on international client projects.</p></li>
+                        </ul>
+                        <a href="services.html" class="btn btn__secondary btn__icon"> <i class="icon-arrow-right"></i><span>Learn More About Our Services</span> </a>
+
+          </div><!-- /.col-lg-7 -->
+        </div><!-- /.row -->
+
+      </div><!-- /.container -->
+    </section><!-- /.Banner layout 2 -->
+  
+
+  
+            <footer class="footer">
+                <div class="footer-primary">
+                    <div class="container">
+                        <div class="row">
+                            <div class="col-sm-12 col-md-6 col-lg-3 col-xl-5 footer-widget footer-widget-about">
+                                <h6 class="footer-widget-title">About Divyam Infracon</h6>
+                                <div class="footer-widget-content">
+                                    <p class="mb-20">Divyam Infracon Offers Infrastructure services, Manpower resources and Training in all types of industries with the highest-quality and exceptional market value
+Short-term, long-term, project-based, and permanent positions in Engineering Design, Fabrication, and Commissioning are all available via us.</p>
+                                    <a href="about-us.html" class="btn btn__primary btn__link "> <i class="icon-arrow-right"></i><span>Learn More About Us</span> </a>
+                                </div>
+                            </div>
+                            <!-- /.col-xl-4 -->
+                            <div class="col-6 col-sm-6 col-md-6 col-lg-2 col-xl-2 footer-widget footer-widget-nav">
+                                <h6 class="footer-widget-title">Services</h6>
+                                <div class="footer-widget-content">
+                                    <nav>
+                                        <ul class="list-unstyled">
+                                              <li class="nav__item">
+                                            <a href="man-power.html" class="nav__item-link">
+                      Man Power Services</a>
+                                        </li>
+                                        <!-- /.nav-item -->
+                                        <li class="nav__item">
+                                            <a href="engineering-services.html" class="nav__item-link">
+                      Engineering Services</a>
+                                        </li>
+                                        <!-- /.nav-item -->
+                                        <li class="nav__item">
+                                            <a href="data-services.html" class="nav__item-link">
+                      Data Services</a>
+                                        </li>
+                                        <!-- /.nav-item -->
+                                        <li class="nav__item">
+                                            <a href="training-development.html" class="nav__item-link">
+                      Training & Development</a>
+                                        </li>
+                                        </ul>
+                                    </nav>
+                                </div>
+                                <!-- /.footer-widget-content -->
+                            </div>
+                            <!-- /.col-xl-2 -->
+                            <div class="col-6 col-sm-6 col-md-6 col-lg-2 col-xl-2 footer-widget footer-widget-nav">
+                                <h6 class="footer-widget-title">Important Links</h6>
+                                <div class="footer-widget-content">
+                                    <nav>
+                                        <ul class="list-unstyled">
+                                            <li>
+                                                <a href="about-us.html">About Us</a>
+                                            </li>
+                                            <li>
+                                                <a href="services.html">Services</a>
+                                            </li>
+                                            <li>
+                                                <a href="careers.html">Careers @ Divyam Infracon</a>
+                                            </li>
+                                            <li>
+                                                <a href="contact-us.html">Contact Us</a>
+                                            </li>
+                                         
+                                        </ul>
+                                    </nav>
+                                </div>
+                                <!-- /.footer-widget-content -->
+                            </div>
+                            <!-- /.col-xl-2 -->
+                            <div class="col-sm-12 col-md-6 col-lg-4 col-xl-3 footer-widget footer-widget-contact">
+                                <h6 class="footer-widget-title">Quick Contact</h6>
+                                <div class="footer-widget-content">
+                                   
+                                    <a class="contact-number contact-number-white d-flex align-items-center mb-20" href="tel:+919979793283"> <i class="icon-phone"></i><span>(+91) 9979793283</span> </a>
+                                    <!-- /.contact__numbr -->
+                                    <p class="mb-30"><strong><u>Office Address:</u></strong><br>
+156, GUNDALA GAM, TATHA PLOT VISTAR, TA, Mendarda, Gujarat 362227<br>
+Email : divyaminfracon@yahoo.com<br>
+
+                                    <ul class="social-icons list-unstyled">
+                                        <li>
+                                            <a href="https://rebrand.ly/divyaminfraconfacebook"><i class="fab fa-facebook-f"></i></a>
+                                        </li>
+                                        <li>
+                                            <a href="https://rebrand.ly/divyaminfraconlinkedin"><i class="fab fa-linkedin"></i></a>
+                                        </li>
+                                        <li>
+                                            <a href="https://rebrand.ly/divyaminfracontwitter"><i class="fab fa-twitter"></i></a>
+                                        </li>
+                                    </ul>
+                                    <!-- /.social-icons -->
+                                </div>
+                                <!-- /.footer-widget-content -->
+                            </div>
+                            <!-- /.col-xl-4 -->
+                        </div>
+                        <!-- /.row -->
+                    </div>
+                    <!-- /.container -->
+                </div>
+                <!-- /.footer-primary -->
+                <div class="footer-copyrights">
+                    <div class="container">
+                        <div class="row">
+                            <div class="col-sm-12 col-md-12 col-lg-12 text-center">
+                                <p style="color:white" class="mb-0"> &copy; 2021 Divyam Infracon Pvt. Ltd.<br><strong>Website Designed by <a href="https://vopo.in">VOPO.in</a></strong> </p>
+                            </div>
+                            <!-- /.col-lg-12 -->
+                        </div>
+                        <!-- /.row -->
+                    </div>
+                    <!-- /.container -->
+                </div>
+                <!-- /.footer-copyrights-->
+            </footer>
+            <!-- /.Footer -->
+            <button id="scrollTopBtn">
+                <i class="fas fa-long-arrow-alt-up"></i>
+            </button>
+            <div class="search-popup">
+                <div class ="testimonial-item">
+                <i class="search-popup__close">&times;</i>
+
+                 <p class="testimonial-item__desc"><u>Divyam Infracon</u><br><small>
+
+
+Contact: +91 - 9979793283<br>
+Email: divyaminfracon@yahoo.com<br>
+➥Address I: 156, GUNDALA GAM, TATHA PLOT VISTAR, TA, Mendarda, Gujarat 362227<br>
+<a href="contact-us.html">Click here to write to us</a><br>
+</small>
+</p>
+
+</div>
+<div class="map-responsive">
+
+<iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d14867.028480149764!2d70.43294861854528!3d21.32061137345387!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3be2acc840000001%3A0xcf0ba649469f7791!2sDIVYAM%20INFRACON%20PRIVATE%20LIMITED!5e0!3m2!1sen!2sin!4v1615821205452!5m2!1sen!2sin" width="600" height="450" frameborder="0" style="border:0" allowfullscreen></iframe>
+
+</div>
+
+            </div>
+            <!-- /. search-popup -->
+        </div>
+        <!-- /.wrapper -->
+  <script src="assets/js/jquery-3.5.1.min.js"></script>
+  <script src="assets/js/plugins.js"></script>
+  <script src="assets/js/main.js"></script>
+</body>
+
+
+<!-- Mirrored from 7oroof.com/demos/amarou/about-us.html by HTTrack Website Copier/3.x [XR&CO'2014], Sun, 14 Feb 2021 19:17:54 GMT -->
+</html>
