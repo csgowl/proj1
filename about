@@ -210,119 +210,124 @@ We provide customised strategies for Short Term, Long Term, Project Based as wel
   
 
   
-            <footer class="footer">
-                <div class="footer-primary">
-                    <div class="container">
-                        <div class="row">
-                            <div class="col-sm-12 col-md-6 col-lg-3 col-xl-5 footer-widget footer-widget-about">
-                                <h6 class="footer-widget-title">About Divyam Infracon</h6>
-                                <div class="footer-widget-content">
-                                    <p class="mb-20">Divyam Infracon Offers Infrastructure services, Manpower resources and Training in all types of industries with the highest-quality and exceptional market value
-Short-term, long-term, project-based, and permanent positions in Engineering Design, Fabrication, and Commissioning are all available via us.</p>
-                                    <a href="about-us.html" class="btn btn__primary btn__link "> <i class="icon-arrow-right"></i><span>Learn More About Us</span> </a>
-                                </div>
-                            </div>
-                            <!-- /.col-xl-4 -->
-                            <div class="col-6 col-sm-6 col-md-6 col-lg-2 col-xl-2 footer-widget footer-widget-nav">
-                                <h6 class="footer-widget-title">Services</h6>
-                                <div class="footer-widget-content">
-                                    <nav>
-                                        <ul class="list-unstyled">
-                                              <li class="nav__item">
-                                            <a href="man-power.html" class="nav__item-link">
-                      Man Power Services</a>
-                                        </li>
-                                        <!-- /.nav-item -->
-                                        <li class="nav__item">
-                                            <a href="engineering-services.html" class="nav__item-link">
-                      Engineering Services</a>
-                                        </li>
-                                        <!-- /.nav-item -->
-                                        <li class="nav__item">
-                                            <a href="data-services.html" class="nav__item-link">
-                      Data Services</a>
-                                        </li>
-                                        <!-- /.nav-item -->
-                                        <li class="nav__item">
-                                            <a href="training-development.html" class="nav__item-link">
-                      Training & Development</a>
-                                        </li>
-                                        </ul>
-                                    </nav>
-                                </div>
-                                <!-- /.footer-widget-content -->
-                            </div>
-                            <!-- /.col-xl-2 -->
-                            <div class="col-6 col-sm-6 col-md-6 col-lg-2 col-xl-2 footer-widget footer-widget-nav">
-                                <h6 class="footer-widget-title">Important Links</h6>
-                                <div class="footer-widget-content">
-                                    <nav>
-                                        <ul class="list-unstyled">
-                                            <li>
-                                                <a href="about-us.html">About Us</a>
-                                            </li>
-                                            <li>
-                                                <a href="services.html">Services</a>
-                                            </li>
-                                            <li>
-                                                <a href="careers.html">Careers @ Divyam Infracon</a>
-                                            </li>
-                                            <li>
-                                                <a href="contact-us.html">Contact Us</a>
-                                            </li>
-                                         
-                                        </ul>
-                                    </nav>
-                                </div>
-                                <!-- /.footer-widget-content -->
-                            </div>
-                            <!-- /.col-xl-2 -->
-                            <div class="col-sm-12 col-md-6 col-lg-4 col-xl-3 footer-widget footer-widget-contact">
-                                <h6 class="footer-widget-title">Quick Contact</h6>
-                                <div class="footer-widget-content">
-                                   
-                                    <a class="contact-number contact-number-white d-flex align-items-center mb-20" href="tel:+919979793283"> <i class="icon-phone"></i><span>(+91) 9979793283</span> </a>
-                                    <!-- /.contact__numbr -->
-                                    <p class="mb-30"><strong><u>Office Address:</u></strong><br>
-156, GUNDALA GAM, TATHA PLOT VISTAR, TA, Mendarda, Gujarat 362227<br>
-Email : divyaminfracon@yahoo.com<br>
+             <footer style="background-color:black" class="footer">
+        <div class="footer-primary">
+            <div class="container">
+                <div class="row">
+                    <div class="col-sm-12 col-md-6 col-lg-3 col-xl-5 footer-widget footer-widget-about">
+                        <h6 class="footer-widget-title">About editornameit</h6>
+                        <div class="footer-widget-content">
+                            <p class="mb-20">editorshortabout</p>
+                            <a style="color:white" href="about-us.html" class="btn btn__primary btn__link "> <i class="icon-arrow-right"></i><span>Learn More About Us</span> 
+                            </a>
+                        </div>
+                    </div>
+                    <!-- /.col-xl-4 -->
+                    <div class="col-6 col-sm-6 col-md-6 col-lg-2 col-xl-2 footer-widget footer-widget-nav">
+                        <h6 class="footer-widget-title"><u>Services</u></h6>
+                        <div class="footer-widget-content">
+                            <nav>
+                                <ul class="list-unstyled">
+                                <li class="nav__item"> <a href="1.html" class="nav__item-link">
+                      editorserv1</a>
+                                </li>
+                                <!-- /.nav-item -->
+                                <li class="nav__item"> <a href="2.html" class="nav__item-link">
+                      editorserv2</a>
+                                </li>
+                                <!-- /.nav-item -->
+                                <li class="nav__item"> <a href="3.html" class="nav__item-link">
+                      editorserv3</a>
+                                </li>
+                                <!-- /.nav-item -->
+                                <li class="nav__item"> <a href="4.html" class="nav__item-link">
+                     editorserv4</a>
+                                </li>
+                                <li class="nav__item"> <a href="5.html" class="nav__item-link">
+                     editorserv5</a>
+                                </li>
 
-                                    <ul class="social-icons list-unstyled">
-                                        <li>
-                                            <a href="https://rebrand.ly/divyaminfraconfacebook"><i class="fab fa-facebook-f"></i></a>
-                                        </li>
-                                        <li>
-                                            <a href="https://rebrand.ly/divyaminfraconlinkedin"><i class="fab fa-linkedin"></i></a>
-                                        </li>
-                                        <li>
-                                            <a href="https://rebrand.ly/divyaminfracontwitter"><i class="fab fa-twitter"></i></a>
-                                        </li>
-                                    </ul>
-                                    <!-- /.social-icons -->
-                                </div>
-                                <!-- /.footer-widget-content -->
-                            </div>
-                            <!-- /.col-xl-4 -->
+                                </ul>
+                            </nav>
                         </div>
-                        <!-- /.row -->
+                        <!-- /.footer-widget-content -->
                     </div>
-                    <!-- /.container -->
-                </div>
-                <!-- /.footer-primary -->
-                <div class="footer-copyrights">
-                    <div class="container">
-                        <div class="row">
-                            <div class="col-sm-12 col-md-12 col-lg-12 text-center">
-                                <p style="color:white" class="mb-0"> &copy; 2021 Divyam Infracon Pvt. Ltd.<br><strong>Website Designed by <a href="https://vopo.in">VOPO.in</a></strong> </p>
-                            </div>
-                            <!-- /.col-lg-12 -->
+                    <!-- /.col-xl-2 -->
+                    <div class="col-6 col-sm-6 col-md-6 col-lg-2 col-xl-2 footer-widget footer-widget-nav">
+                        <h6 class="footer-widget-title"><u>Services II</u></h6>
+                        <div class="footer-widget-content">
+                            <nav>
+                                <ul class="list-unstyled">
+                                                                   <li class="nav__item"> <a href="6.html" class="nav__item-link">
+                     editorserv6</a>
+                                </li>
+                                <li class="nav__item"> <a href="7.html" class="nav__item-link">
+                     editorserv7</a>
+                                </li>
+                                <li class="nav__item"> <a href="8.html" class="nav__item-link">
+                     editorserv8</a>
+                                </li>
+                                <li class="nav__item"> <a href="9.html" class="nav__item-link">
+                     editorserv9</a>
+                                </li>
+                                <li class="nav__item"> <a href="10.html" class="nav__item-link">
+                     editorserv10</a>
+                                </li>
+                          
+                                </ul>
+                            </nav>
                         </div>
-                        <!-- /.row -->
+                        <!-- /.footer-widget-content -->
                     </div>
-                    <!-- /.container -->
+                    <!-- /.col-xl-2 -->
+                    <div class="col-sm-12 col-md-6 col-lg-4 col-xl-3 footer-widget footer-widget-contact">
+                        <h6 class="footer-widget-title">Quick Contact</h6>
+                        <div class="footer-widget-content">
+                            <a class="contact-number contact-number-white d-flex align-items-center mb-20" href="tel:+91editorphone1"> <i class="icon-phone"></i><span>+91 editorphone1</span></a>  <a class="contact-number contact-number-white d-flex align-items-center mb-20" href="tel:+91editorphone2"> <i class="icon-phone"></i><span>+91 editorphone2</span></a></span> 
+                            </a>
+                            <!-- /.contact__numbr -->
+                            <p class="mb-30"><strong><u>Office Address: editoraddress</u></strong>
+                                <br>
+                                <br>Email : editoremail
+                                <br>
+                                <ul class="social-icons list-unstyled">
+                                    <li> <a href="editorfacebook"></i></a>
+                                    </li>
+                                    <li> <a href="editorlinkedin"><i class="fab fa-linkedin"></i></a>
+                                    </li>
+                                    <li> <a href="editortwitter"><i class="fab fa-twitter"></i></a>
+                                    </li>
+                                </ul>
+                                <!-- /.social-icons -->
+                        </div>
+                        <!-- /.footer-widget-content -->
+                    </div>
+                    <!-- /.col-xl-4 -->
                 </div>
-                <!-- /.footer-copyrights-->
-            </footer>
+                <!-- /.row -->
+            </div>
+            <!-- /.container -->
+        </div>
+        <!-- /.footer-primary -->
+        <div class="footer-copyrights">
+            <div class="container">
+                <div class="row">
+                    <div class="col-sm-12 col-md-12 col-lg-12 text-center">
+                        <p style="color:white" class="mb-0">&copy;
+                            <script>
+                                document.write(new Date().getFullYear())
+                            </script>editornameit 
+                            <br><strong>Website Designed & Developed by <a style="color:white" href="https://vopo.in"><u>VOPO.in</u></a></strong> 
+                        </p>
+                    </div>
+                    <!-- /.col-lg-12 -->
+                </div>
+                <!-- /.row -->
+            </div>
+            <!-- /.container -->
+        </div>
+        <!-- /.footer-copyrights-->
+    </footer>
             <!-- /.Footer -->
             <button id="scrollTopBtn">
                 <i class="fas fa-long-arrow-alt-up"></i>
